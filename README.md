@@ -3,6 +3,8 @@ Este projeto foi elaborado visando encontrar a melhor forma de ajudar instituiç
 Principais objetivos deste projeto: o combate a *deepfakes*, engenharia social e enxames de contas mulas operadas por crime organizado transnacional.
 
 ##### Até o momento publiquei apenas a versão Beta que será a base da versão Alfa.
+A versão Beta utiliza a arquitetura Zero-Disk Persistence (processamento em memória RAM volátil sem gravação de imagens em disco) amparado pelo Art. 11, II, "g" da LGPD.
+
 ##### A versão Alfa precisa passar por tranmites legais com a ABIN antes de ser publicada e por isso deve ser lançada para o público apenas em 2027.
 
 Para este projeto usei como fundamentação teórica e estudo de caso os relatórios oficiais do **FBI** (como o caso OneCoin / Ruja Ignatova) e da **Interpol** (como as Operações *Jackal* e *First Light*).
